@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "427782374985",
+    "firebase_url": "https://thesis-e7cdf-default-rtdb.firebaseio.com",
+    "project_id": "thesis-e7cdf",
+    "storage_bucket": "thesis-e7cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427782374985:android:856b2cd8de7789e684a198",
+        "android_client_info": {
+          "package_name": "com.mycompany.thesismobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUyK4fm8ENGL0NNl1ZBSvy3wNa_11UUck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

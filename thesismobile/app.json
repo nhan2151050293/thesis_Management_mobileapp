@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "thesismobile",
+    "slug": "thesismobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "permissions": [
+        "INTERNET"
+      ],
+      "package": "com.mycompany.thesismobile"
+    }
+  },
+  "name": "thesismobile"
+}
